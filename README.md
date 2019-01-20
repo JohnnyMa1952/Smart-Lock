@@ -15,9 +15,9 @@ Core files are located in the "Main files" folder
 # Images
   
 Door  
-<img src="images/door_0.jpg">  
-<img src="images/door_1.jpg">  
-<img src="images/door_2.jpg">  
+<img src="images/door_0.jpg" width="60%">  
+<img src="images/door_1.jpg" width="60%">  
+<img src="images/door_3.jpg" width="60%">  
   
 Website login  
 <img src="images/website_1.png">  
@@ -26,13 +26,13 @@ Website live-stream
 <img src="images/website_0.png">  
   
 Fritzing diagram
-<img src="images/fritzing.png">  
+<img src="images/fritzing.png" width="60%">  
   
 App  
-<img src="app_0.png">  
-<img src="app_1.png">    
-<img src="app_2.png">    
-<img src="app_3.png">    
-<img src="app_4.png">    
-<img src="app_5.png">    
-<img src="app_6.png">    
+<img src="images/app_0.png" width="60%">  
+<img src="images/app_1.png" width="60%">    
+<img src="images/app_2.png" width="60%">    
+<img src="images/app_3.png" width="60%">    
+<img src="images/app_4.png" width="60%">    
+<img src="images/app_5.png" width="60%">    
+<img src="images/app_6.png" width="60%">    
