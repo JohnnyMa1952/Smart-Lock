@@ -14,21 +14,21 @@ Core files are located in the "Main files" folder
   
 # Images
   
-Door  
+ ## Door  
 <img src="images/door_0.jpg" width="60%">  
 <img src="images/door_1.jpg" width="60%">  
 <img src="images/door_3.jpg" width="60%">  
   
-Website login  
+ ## Website login  
 <img src="images/website_1.png">  
   
-Website live-stream  
+ ## Website live-stream  
 <img src="images/website_0.png">  
   
-Fritzing diagram
-<img src="images/fritzing.png" width="60%">  
+ ## Fritzing diagram
+<img src="images/fritzing.jpg" width="60%">  
   
-App  
+ ## App  
 <img src="images/app_0.png" width="60%">  
 <img src="images/app_1.png" width="60%">    
 <img src="images/app_2.png" width="60%">    
